@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "PyRuntimeUtility",
+	"Description": "Enables the communcation to and from an external Python script at runtime.",
+	"Category": "Python Runtime",
+	"CreatedBy": "Fortbonnitar",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PyRuntimeUtility",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "TcpSocketPlugin",
+			"Enabled": true
+		}
+	],
+	"IsExperimentalVersion": false
+}
