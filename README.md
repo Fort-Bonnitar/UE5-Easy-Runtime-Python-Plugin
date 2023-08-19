@@ -12,7 +12,7 @@ Developed with Unreal Engine 5.2
 
 
 
-# Credit to SpartanTools, the creators of the - ->> TCP Socket Connection plugin <<-- (It is in this repo as it is a dependancy needed for this to function) However, If you would like to know more about the plugin,  it is free on the epic marketplace and also on github at the following links:
+## Credit to SpartanTools, the creators of the - ->> TCP Socket Connection plugin <<-- (It is in this repo as it is a dependancy needed for this to function) However, If you would like to know more about the plugin,  it is free on the epic marketplace and also on github at the following links:
 
  UE Marketplace - https://www.unrealengine.com/marketplace/en-US/product/462c2952e71c4548ae324cb624c74aa6
  Github - https://github.com/CodeSpartan/UE4TcpSocketPlugin
