@@ -49,7 +49,8 @@ Developed with Unreal Engine 5.2
 
 -Run around and watch the values being sent and recieved update as you move through the level. 
 
-
+Video Tutorial:
+https://www.youtube.com/watch?v=i72wNki9Oqo&t=18s
 
 
 
