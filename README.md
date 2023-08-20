@@ -13,7 +13,7 @@ Developed with Unreal Engine 5.2
 
 
  Credit to SpartanTools, the creators of the 
- -->> TCP Socket Connection plugin <<-- 
+ TCP Socket Connection plugin used in making this.
  (It is in this repo as it is a dependancy needed for this to function)
  However, If you would like to know more about the plugin,
  it is free on the epic marketplace and also on github at the following links:
