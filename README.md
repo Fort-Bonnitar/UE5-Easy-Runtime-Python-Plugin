@@ -56,4 +56,13 @@ Developed with Unreal Engine 5.2
 
 --This project is intended as a template, so all the scripts relavent to your project's specific use case will need to be added to both UE5 and the python script. 
 
---Any questions or comments feel free to DM me on discord username: fortbonnitar    
+--Any questions or comments feel free to DM me on discord username: fortbonnitar  
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
